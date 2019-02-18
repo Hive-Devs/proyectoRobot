@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = '680004388:AAGne98mFi2dLrovHRAd1HV_n91hL3qJVoA'
+TOKEN = '' #Set token before use
 bot = telebot.TeleBot(TOKEN)
 
 def listener(mensajes):
